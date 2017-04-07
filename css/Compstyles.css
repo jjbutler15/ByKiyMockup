@@ -1,0 +1,155 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #fff;
+    background-color: #111111;
+}
+
+
+
+#logo-nav {
+    padding-left: 150px;
+    padding-right:150px;
+    text-align: center;
+}
+#clothes {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right:30px;
+    background-color: #111111;
+}
+.input-group {
+    padding-top: 20px;
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    width: 60%;
+    height: 60%;
+}
+
+.input-groupfoot {
+    padding-top: 10px; 
+}
+
+
+
+.container-mid {
+   
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #111111;
+    
+    
+}
+
+.container-fluid {
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.pic {
+     border: 1px solid green;
+}
+
+.martin {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#offers-contained {
+    
+    color: #ffffff;
+    padding-top: 10px;
+}
+#offers-contained a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+#offers {
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 60px;
+}
+#offers a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+.slider-container {
+    max-height: 500px;
+    overflow: hidden;
+}
+.slider-img {
+    width: 100%;
+}
+footer {
+    background-color: #212121;
+    color: #ffffff;
+    padding: 20px;
+    text-align: left;
+}
+.padding-0 {
+    padding: 0;
+}
+.payments-image {
+    padding-left: 30px;
+}
+
+p {
+    line-height: 2em;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+a {
+    color: #778899;
+    text-decoration: none;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 20px 10px 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+
+/* Search Bar*/
+element.style {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #111111;
+    border-color: #46b8da;
+}
+
+.form-control input-lg {
+    background-color:#111111;
+    
+}
+#navbar {
+    margin-bottom: 0;
+    display: inline-block;
+    list-style-type: none;
+}

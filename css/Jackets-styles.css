@@ -1,0 +1,24 @@
+
+
+header {
+    width: 1200px;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+
+.left-side {
+    float: none;
+    display: table-cell;
+    border: 1px solid;
+}
+
+.right-side {
+    background-color: red;
+    float: none;
+    display: table-cell;
+    border: 1px solid;
+}
